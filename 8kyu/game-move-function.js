@@ -1,6 +1,6 @@
 // In this game, the hero moves from left to right. 
 // The player rolls the die and moves the number 
-// of spaces indicated by the die two times.
+// of spaces indicated by the die two times!
 
 // Create a function for the terminal game that 
 // takes the current position of the hero and the 
